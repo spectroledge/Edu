@@ -1,0 +1,75 @@
+---
+- id: read_more
+  translation: Continua
+- id: contact_form
+  translation: Modulo Contatto
+- id: send
+  translation: invia messaggio
+- id: contact_info
+  translation: Informazioni Contatto
+- id: subscribe_newsletter
+  translation: Iscrizione Newsletter
+- id: subscribe
+  translation: Iscriviti
+- id: contact_us
+  translation: Contattaci
+- id: latest_article
+  translation: Ultimo Articolo
+- id: categories
+  translation: Categorie
+- id: tags
+  translation: Tags
+- id: see_all
+  translation: Vedi tutto
+- id: apply_now
+  translation: Iscriviti ora
+- id: posted_by
+  translation: Inserito da
+- id: date
+  translation: Data
+- id: time
+  translation: ora
+- id: category
+  translation: Categoria
+- id: related_course
+  translation: Corso  Correlato
+- id: duration
+  translation: durata
+- id: weekly
+  translation: settimanale
+- id: fee
+  translation: costo
+- id: teacher
+  translation: insegnante
+- id: location
+  translation: sede
+- id: entry_fee
+  translation: quota d'iscrizione
+- id: event_speaker
+  translation: Relatori Evento
+- id: more_event
+  translation: Altri Eventi
+- id: join
+  translation: Iscriviti
+- id: enter_email
+  translation: Inserisci email…
+- id: company
+  translation: azienda
+- id: links
+  translation: collegamenti
+- id: courses
+  translation: Corsi
+- id: new_notice
+  translation: nuovo avviso
+- id: call
+  translation: chiama
+- id: email
+  translation: email
+- id: all
+  translation: Tutto
+- id: interest
+  translation: RIASSUNTO ATTIVITÀ/ INTERESSI
+- id: our_teachers
+  translation: I Nostri Insegnanti
+- id: download
+  translation: Scarica

@@ -1,0 +1,74 @@
+
+[[Languages.it.menu.main]]
+name = "Chi siamo"
+url = "about"
+weight = 1
+
+[[Languages.it.menu.main]]
+name = "Corsi"
+url = "course"
+weight = 2
+
+[[Languages.it.menu.main]]
+weight = 3
+name = "Pages"
+hasChildren = true
+
+  [[Languages.it.menu.main]]
+  parent = "Pages"
+  name = "insegnante"
+  url = "teacher"
+
+  [[Languages.it.menu.main]]
+  parent = "Pages"
+  name = "avviso"
+  url = "notice"
+
+  [[Languages.it.menu.main]]
+  parent = "Pages"
+  name = "Evento"
+  url = "event"
+
+  [[Languages.it.menu.main]]
+  parent = "Pages"
+  name = "Borse"
+  url = "scholarship"
+
+  [[Languages.it.menu.main]]
+  parent = "Pages"
+  name = "ricerca"
+  url = "research"
+  
+[[Languages.it.menu.main]]
+name = "blog"
+url = "blog"
+weight = 4
+  
+[[Languages.it.menu.main]]
+name = "Contatti"
+url = "contact"
+weight = 5
+
+
+# footer menu
+
+[[Languages.it.menu.footer]]
+name = "insegnante"
+url = "teacher"
+
+[[Languages.it.menu.footer]]
+name = "avviso"
+url = "notice"
+
+[[Languages.it.menu.footer]]
+name = "Evento"
+url = "event"
+
+[[Languages.it.menu.footer]]
+name = "Borse"
+url = "scholarship"
+
+[[Languages.it.menu.footer]]
+name = "ricerca"
+url = "research"
+
