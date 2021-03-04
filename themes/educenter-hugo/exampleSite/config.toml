@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+title = "Spectroledge | hugo education template"
 theme = "educenter-hugo"
 themesDir = "../.."
 # post pagination
@@ -47,7 +47,7 @@ link = "plugins/google-map/gmap.js"
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Spectroledge"
 # contact info
 address = "9567 Turner Trace Apt. BC C3G8A4"
 mobile = "+211234565523"
