@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Intelligenza Artificiale"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,23 +9,22 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # course thumbnail
 image: "images/courses/course-3.jpg"
 # taxonomy
-category: "Artificial Intelligence"
+category: "Intelligenza Artificiale"
 # teacher
 teacher: "Alex Rook"
 # duration
-duration : "06 Month"
+duration : "06 Mesi"
 # weekly
-weekly : "03 hours"
+weekly : "03 ore"
 # course fee
-fee : "From: $699"
+fee : "A partire da: $699"
 # apply url
 apply_url : "#"
 # type
 type: "course"
 ---
 
-
-### About Course
+### Il Corso
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -38,7 +37,7 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.</p>
 
-### Requirements
+### Requisiti
 
 
 
@@ -48,7 +47,7 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 
-### How to Apply
+### Come Iscriversi
 
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
@@ -57,7 +56,7 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 
 
-### Fees and Funding
+### Costi e Finanziamenti
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
