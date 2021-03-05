@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "Iscriviti subito"
-        link : "contatto"
+        link : "contact"
 
     # slider item loop
     - title : "Il tuo futuro è la nostra missione"
@@ -23,7 +23,7 @@ slider:
       button:
         enable : true
         label : "Iscriviti subito"
-        link : "contatto"
+        link : "contact"
 
     # slider item loop
     - title : "Il tuo futuro è la nostra missione"
@@ -34,7 +34,7 @@ slider:
       button:
         enable : true
         label : "Iscriviti subito"
-        link : "contatto"
+        link : "contact"
 
 
 ############################### Banner feature ###############################
@@ -92,7 +92,7 @@ cta:
   button:
     enable : true
     label : "Iscriviti subito"
-    link : "contatto"
+    link : "contact"
 
 
 ######################## Success story #############################
