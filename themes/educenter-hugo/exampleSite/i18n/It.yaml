@@ -32,7 +32,7 @@
 - id: category
   translation: Categoria
 - id: related_course
-  translation: Corso  Correlato
+  translation: Corso Correlato
 - id: duration
   translation: durata
 - id: weekly
@@ -68,7 +68,7 @@
 - id: all
   translation: Tutto
 - id: interest
-  translation: RIASSUNTO ATTIVITÀ/ INTERESSI
+  translation: RIASSUNTO ATTIVITÀ/INTERESSI
 - id: our_teachers
   translation: I Nostri Insegnanti
 - id: download
