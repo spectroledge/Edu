@@ -4,7 +4,7 @@
 - id: contact_form
   translation: Modulo Contatto
 - id: send
-  translation: invia messaggio
+  translation: invia
 - id: contact_info
   translation: Informazioni Contatto
 - id: subscribe_newsletter
@@ -44,7 +44,7 @@
 - id: location
   translation: sede
 - id: entry_fee
-  translation: quota d'iscrizione
+  translation: quota iscrizione
 - id: event_speaker
   translation: Relatori Evento
 - id: more_event

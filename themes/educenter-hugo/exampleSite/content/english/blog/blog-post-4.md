@@ -11,8 +11,8 @@ image: "images/blog/post-2.jpg"
 # post author
 author: "Mark Dinn"
 # taxonomy
-categories: ["Mathmatics Learning"]
-tags: ["Advice", "Rules"]
+categories: ["Mathematics Learning"]
+tags: ["Consulenza", "Regole"]
 # type
 type: "post"
 ---

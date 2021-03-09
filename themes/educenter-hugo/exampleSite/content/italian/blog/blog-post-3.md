@@ -1,5 +1,5 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
+title: "Elegante Light Box Paper Cut Dioramas"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -12,7 +12,7 @@ image: "images/blog/post-3.jpg"
 author: "Mark Dinn"
 # taxonomy
 categories: ["Eco System"]
-tags: ["Advice", "Eco"]
+tags: ["Consulenza", "Eco"]
 # type
 type: "post"
 ---
