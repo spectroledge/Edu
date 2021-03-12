@@ -11,7 +11,7 @@ image: "images/blog/post-3.jpg"
 # post author
 author: "John Doe"
 # taxonomy
-categories: ["Eco system"]
+categories: ["Eco system", "Sistema educativo"]
 tags: ["Educazione", "Consulenza", "Regole"]
 # type
 type: "post"

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automazione on Spectroledge | hugo education template</title>
+    <link>http://localhost/it/tags/automazione/</link>
+    <description>Recent content in Automazione on Spectroledge | hugo education template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <copyright>Spectroledge 2021</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="http://localhost/it/tags/automazione/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elegante Light Box con Diorami</title>
+      <link>http://localhost/it/blog/blog-post-1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://localhost/it/blog/blog-post-1/</guid>
+      <description>Il passaggio standard Lorem Ipsum, usato dal 1500 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Elegante Light Box con Diorami</title>
+      <link>http://localhost/it/blog/blog-post-6/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://localhost/it/blog/blog-post-6/</guid>
+      <description>Il passaggio standard Lorem Ipsum, usato dal 1500 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Elegante Scatola Light Box Carta Diorama</title>
+      <link>http://localhost/it/blog/blog-post-2/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://localhost/it/blog/blog-post-2/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

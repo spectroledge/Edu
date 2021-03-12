@@ -1,5 +1,4 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
 title = "Spectroledge | hugo education template"
 theme = "educenter-hugo"
 themesDir = "../.."
@@ -10,8 +9,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
-
+disableLanguages = [] # disable language from here
 
 ############################# Plugins ##############################
 
@@ -40,7 +38,6 @@ link = "plugins/venobox/venobox.min.js"
 link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
-
 
 #################### default parameters ################################
 [params]
@@ -110,19 +107,24 @@ title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-
+################################### Taxonomies #######################################
+[Taxonomies]
+  tag = "tags"
+# English is the default language
+DefaultContentLanguage = "en"
+# Force to have /en/my-page and /fr/my-page routes, even for default language.
+defaultContentLanguageInSubdir = true
+[Languages]
 ################################### English language #####################################
 [Languages.en]
+baseURL = "http://localhost"
 languageName = "En"
-languageCode = "en-us"
+languageCode = "en"
 contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
 copyright = "Spectroledge 2021"
-
-
-
 ################### English navigation ####################
 
 # main menu
@@ -199,10 +201,10 @@ url = "scholarship"
 name = "research"
 url = "research"
 
-
 ################################### French language #####################################
 
 [Languages.fr]
+baseURL = "http://localhost/fr"
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
@@ -286,9 +288,10 @@ url = "scholarship"
 [[Languages.fr.menu.footer]]
 name = "research"
 url = "research"
-############### italian language ###########
 
+############### italian language ###########
 [Languages.it]
+baseURL = "http://localhost/it"
 contentDir = "content/italian"
 copyright = "Spectroledge 2021"
 home = "Home"
@@ -296,6 +299,7 @@ languageCode = "it-it"
 languageName = "It"
 weight = 3
 
+################### Italian navigation ####################
 [[Languages.it.menu.main]]
 name = "Chi siamo"
 url = "about"

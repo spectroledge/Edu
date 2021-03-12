@@ -11,7 +11,7 @@ image: "images/blog/post-2.jpg"
 # post author
 author: "Mark Dinn"
 # taxonomy
-categories: ["Studi di Matematica"]
+categories: ["Studi di Matematica", "Eco system"]
 tags: ["Consulenza", "Regole"]
 # type
 type: "post"
