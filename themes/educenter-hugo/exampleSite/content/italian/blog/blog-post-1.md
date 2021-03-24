@@ -15,6 +15,8 @@ categories: ["Sistemi Automazione"]
 tags: ["Consulenza", "Automazione"]
 # type
 type: "post"
+#slug
+slug: "elegante-light-box-1"
 ---
 
 ### Il passaggio standard Lorem Ipsum, usato dal 1500

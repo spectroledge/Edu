@@ -1,7 +1,12 @@
 ######################## default configuration ####################
+#baseURL = "localhost/"
 title = "Spectroledge | hugo education template"
 theme = "educenter-hugo"
 themesDir = "../.."
+# English is the default language
+defaultContentLanguage = "en"
+# Force to have /en/my-page and /fr/my-page routes, even for default language.
+defaultContentLanguageInSubdir = true
 # post pagination
 paginate = "6"
 # post excerpt
@@ -10,7 +15,6 @@ summaryLength = "10"
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # disable language from here
-
 ############################# Plugins ##############################
 
 # CSS Plugins
@@ -110,23 +114,22 @@ link = "#"
 ################################### Taxonomies #######################################
 [Taxonomies]
   tag = "tags"
-# English is the default language
-DefaultContentLanguage = "en"
-# Force to have /en/my-page and /fr/my-page routes, even for default language.
-defaultContentLanguageInSubdir = true
-[Languages]
+  category = "categories"
+
+
 ################################### English language #####################################
+[Languages]
+
 [Languages.en]
-baseURL = "http://localhost"
+baseURL = "localhost/en"
 languageName = "En"
-languageCode = "en"
+languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
 copyright = "Spectroledge 2021"
 ################### English navigation ####################
-
 # main menu
 [[Languages.en.menu.main]]
 name = "About"
@@ -204,7 +207,7 @@ url = "research"
 ################################### French language #####################################
 
 [Languages.fr]
-baseURL = "http://localhost/fr"
+baseURL = "localhost/fr"
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
@@ -291,10 +294,11 @@ url = "research"
 
 ############### italian language ###########
 [Languages.it]
-baseURL = "http://localhost/it"
+baseURL = "localhost/it"
 contentDir = "content/italian"
 copyright = "Spectroledge 2021"
 home = "Home"
+education = "Education"
 languageCode = "it-it"
 languageName = "It"
 weight = 3

@@ -13,6 +13,7 @@ author: "John Doe"
 # taxonomy
 categories: ["Education System"]
 tags: ["Education", "Automation"]
+translationKey: education
 # type
 type: "post"
 ---
